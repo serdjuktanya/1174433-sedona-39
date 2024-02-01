@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Tetiana Serdiuk](https://up.htmlacademy.ru/htmlcss/39/user/1174433).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
 
 ---
 
