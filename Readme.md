@@ -2,6 +2,7 @@
 
 * Студент: [Tetiana Serdiuk](https://up.htmlacademy.ru/htmlcss/39/user/1174433).
 * Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
+* Сайт:[Мой сайт Седона](https://serdjuktanya.github.io/1174433-sedona-39/).
 
 ---
 
